@@ -1,0 +1,6 @@
+full_sentence	device_span	type
+Parlons d'une maladie à laquelle 190 millions de personnes dans le monde font actuellement face : l'endométriose.	une maladie à laquelle 190 millions de personnes dans le monde font actuellement face	RH_MT_DD
+Les patientes atteintes d'endométriose font face à des symptômes très variables, dont je vous parlerai tout de suite, mais elles ont une chose en commun selon la définition de l'Organisation mondiale de la Santé : « L'endométriose se caractérise par le développement de tissu semblable à la muqueuse utérine en dehors de l'utérus ».	font face à des symptômes	RH_MT_DD
+Je n'ai pas besoin de vous expliquer qu'une maladie chronique telle que l'endométriose peut avoir un impact dévastateur sur la qualité de vie des personnes touchées et celles qui les entourent.	touchées	RH_MT_DD
+Je n'ai pas besoin de vous expliquer qu'une maladie chronique telle que l'endométriose peut avoir un impact dévastateur sur la qualité de vie des personnes touchées et celles qui les entourent.	entourent	RH_MT_DD
+la maladie peut toute aussi peser sur la vie personnelle et conjugale des patientes.	peser sur	RH_MT_DD

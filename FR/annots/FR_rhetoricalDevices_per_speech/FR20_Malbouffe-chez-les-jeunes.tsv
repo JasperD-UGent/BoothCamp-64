@@ -1,0 +1,39 @@
+full_sentence	device_span	type
+L'appétit vient en mangeant, n'est-ce pas ?	l'appétit vient en mangeant	RH_MT_DD
+Permettez-moi alors d'ouvrir le discours d'aujourd'hui par une image familière : après une longue journée d'école, la sonnette sonne, tous les élèves se précipitent dehors et, séduits par l'une des nombreuses promotions, achètent en route un petit casse-croûte.	ouvrir le discours	RH_MT_DD
+C'est dans le meilleur des scénarios, car souvent, il s'agit d'un menu hypercalorique qu'ils avalent en quelques minutes.	c'est dans le meilleur des scénarios	RH_MT_DD
+Mais peut-on vraiment leur en vouloir quand on sait qu'ils sont quotidiennement bombardés de publicités remplies d'images de hamburgers appétissants et de pizzas au fromage fondant ?	bombardés de publicités	RH_MT_DD
+Ou est-ce leur propre responsabilité de ne pas céder à toutes ces publicités alléchantes ?	céder à toutes ces publicités alléchantes	RH_MT_DD
+Dans les minutes qui suivent, passons au crible le sujet de la malbouffe chez les jeunes.	passons au crible	RH_MT_DD
+En Belgique, on trouve de la malbouffe à chaque coin de rue : on a l'embarras du choix.	à chaque coin de rue	RH_MT_DD
+En Belgique, on trouve de la malbouffe à chaque coin de rue : on a l'embarras du choix.	l'embarras du choix	RH_MT_DD
+Mais les géants de la restauration rapide ne se contentent pas de leur empire actuel : d'ici 2030, ils souhaitent encore augmenter leur emprise en ouvrant 25 % de points de vente supplémentaires dans notre pays.	les géants	RH_MT_MC
+Mais les géants de la restauration rapide ne se contentent pas de leur empire actuel : d'ici 2030, ils souhaitent encore augmenter leur emprise en ouvrant 25 % de points de vente supplémentaires dans notre pays.	se contentent	RH_MT_DD
+Mais les géants de la restauration rapide ne se contentent pas de leur empire actuel : d'ici 2030, ils souhaitent encore augmenter leur emprise en ouvrant 25 % de points de vente supplémentaires dans notre pays.	leur empire	RH_MT_MC
+Mais les géants de la restauration rapide ne se contentent pas de leur empire actuel : d'ici 2030, ils souhaitent encore augmenter leur emprise en ouvrant 25 % de points de vente supplémentaires dans notre pays.	leur emprise	RH_MT_DD
+Par ailleurs, les chaînes de fastfood ne sont pas indifférentes à leur emplacement : elles privilégient les endroits très fréquentés, de préférence à proximité des écoles, où elles peuvent gaver les jeunes de cochonneries ultra-transformées.	privilégient	RH_MT_DD
+Par ailleurs, les chaînes de fastfood ne sont pas indifférentes à leur emplacement : elles privilégient les endroits très fréquentés, de préférence à proximité des écoles, où elles peuvent gaver les jeunes de cochonneries ultra-transformées.	gaver	RH_MT_MC
+Par ailleurs, les chaînes de fastfood ne sont pas indifférentes à leur emplacement : elles privilégient les endroits très fréquentés, de préférence à proximité des écoles, où elles peuvent gaver les jeunes de cochonneries ultra-transformées.	cochonneries	RH_MT_MC
+On estime que 30 à 40 % de ce que nous absorbons au quotidien est transformé.	absorbons	RH_MT_DD
+Même si nous ne sommes pas parmi les pires élèves, il est important que nous mettions la main à la pâte.	parmi les pires élèves	RH_MT_MC
+Même si nous ne sommes pas parmi les pires élèves, il est important que nous mettions la main à la pâte.	mettions la main à la pâte	RH_MT_DD
+Force est de constater que les acteurs majeurs du secteur misent invariablement sur les jeunes, et ils savent très bien ce qu'ils font.	force est	RH_MT_DD
+Force est de constater que les acteurs majeurs du secteur misent invariablement sur les jeunes, et ils savent très bien ce qu'ils font.	les acteurs majeurs	RH_MT_DD
+Force est de constater que les acteurs majeurs du secteur misent invariablement sur les jeunes, et ils savent très bien ce qu'ils font.	les acteurs majeurs du secteur misent invariablement sur les jeunes	RH_MT_DD
+Les adolescents sont du pain bénit pour eux : lorsque le cortex frontal n'a pas atteint sa pleine maturité, les jeunes ont en effet du mal à résister à tous ces snacks croquants, ces portions XXL, ces desserts glacés et ces céréales sucrées.	pain bénit	RH_MT_DD
+Parce que l'adolescence est une période marquée par la recherche de plaisir immédiat et par une pression sociale qui renforce le désir de se conformer.	une pression	RH_MT_DD
+Les enseignes exploitent cette vulnérabilité en utilisant des visuels colorés et des slogans accrocheurs dans leurs publicités.	accrocheurs	RH_MT_DD
+Ces dernières années, elles ont aussi eu recours à des influenceurs qui parlent le langage des jeunes et les convainquent en un clin d'œil de manger tel ou tel produit, de préférence ultra-salé, sucré ou gras.	en un clin d'oeil	RH_MT_DD
+Ajoutez à cela des prix bas et des promotions agressives, et vous obtiendrez une stratégie ultra-efficace, et surtout redoutable.	agressives	RH_MT_DD
+Face à ces noirs desseins, les autorités essayent de couper la poire en deux : protéger la santé de la jeunesse sans se mettre les géants du secteur à dos.	noirs	RH_MT_DD
+Face à ces noirs desseins, les autorités essayent de couper la poire en deux : protéger la santé de la jeunesse sans se mettre les géants du secteur à dos.	couper la poire en deux	RH_MT_DD
+Face à ces noirs desseins, les autorités essayent de couper la poire en deux : protéger la santé de la jeunesse sans se mettre les géants du secteur à dos.	géants	RH_MT_MC
+Face à ces noirs desseins, les autorités essayent de couper la poire en deux : protéger la santé de la jeunesse sans se mettre les géants du secteur à dos.	se mettre à dos	RH_MT_DD
+Je vous donne quelques exemples : nuggets de poulet, boissons énergisantes, smoothies, hamburgers, bref, tout ce qui est trop gras, trop salé ou trop sucré est banni de l'écran, ou du moins le soir.	banni de l'écran	RH_MT_MC
+Ainsi, les autorités espèrent encourager les acteurs de l'industrie agro-alimentaire à reformuler les recettes de leurs produits pour les rendre plus sains.	les acteurs	RH_MT_DD
+Même si l'épidémie d'obésité n'a pas encore fait autant de victimes en Belgique, on pourrait penser que nos autorités souhaitent également mettre un frein à la publicité diffusée par les chaînes de restauration rapide.	mettre un frein	RH_MT_DD
+A présent, il existe des règles encadrant la publicité pour les produits trop sucrés, trop gras ou trop salés, mais il faut bien reconnaître qu'elles relèvent avant tout de l'autorégulation, puisque ce sont les fabricants eux-mêmes qui les ont rédigées.	encadrant	RH_MT_DD
+Et, comme chacun sait, on n'est jamais mieux servi que par soi-même : ces codes débouchent sur une multitude d'exceptions et des critères qui manquent de rigueur.	on n'est jamais mieux servi que par soi-même	RH_MT_DD
+Et, comme chacun sait, on n'est jamais mieux servi que par soi-même : ces codes débouchent sur une multitude d'exceptions et des critères qui manquent de rigueur.	débouchent	RH_MT_DD
+Quelle pourrait alors être la recette du succès ? 	la recette	RH_MT_DD
+Rendre les aliments malsains plus chers et les produits sains plus abordables serait non seulement efficace, mais aussi plus juste, car aujourd'hui, une alimentation équilibrée demeure hors de portée pour les ménages précarisés, tandis qu'un repas hypercalorique à bas prix reste accessible à tous.	hors de portée	RH_MT_DD

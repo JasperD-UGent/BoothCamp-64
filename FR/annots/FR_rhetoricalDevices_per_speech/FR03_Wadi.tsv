@@ -1,0 +1,19 @@
+full_sentence	device_span	type
+Les températures deviennent de plus en plus capricieuses : si nous suons à grosses gouttes aujourd'hui, il se peut très bien que la semaine prochaine, nous claquons des dents parce ce que tout à coup, il gèle.	les températures deviennent de plus en plus capricieuses	RH_MT_MC
+Les températures deviennent de plus en plus capricieuses : si nous suons à grosses gouttes aujourd'hui, il se peut très bien que la semaine prochaine, nous claquons des dents parce ce que tout à coup, il gèle.	nous suons à grosses gouttes	RH_MT_DD
+Il en va de même pour les précipitations : parfois, pendant des semaines, il n'y a pas une goutte d'eau qui tombe du ciel, jusqu'au moment où, soudainement, il pleut à seaux, et cela sans cesse, des jours entiers.	il pleut à seaux	RH_MT_DD
+Le gouvernement commence à mettre la main à la pâte, mais attend également des Flamands qu'ils apportent leur pierre à l'édifice.	mettre la main à la pâte	RH_MT_DD
+Le gouvernement commence à mettre la main à la pâte, mais attend également des Flamands qu'ils apportent leur pierre à l'édifice.	ils apportent leur pierre à l'édifice	RH_MT_DD
+D'abord, la question que vous avez toutes et tous sur les lèvres : c'est quoi exactement, un wadi ou un oued ?	la question que vous avez toutes et tous sur les lèvres	RH_MT_DD
+Le mot trouve son origine dans la langue arabe : il y a plusieurs significations, allant d'une vallée fluviale à un lit de rivière temporaire, qui ne contient de l'eau que lors de fortes pluies.	le mot trouve son origine dans la langue arabe	RH_MT_DD
+Ainsi, on évite les inondations, et on réalimente lentement les nappes phréatiques, ce qui prévient les sécheresses.	on réalimente lentement les nappes phréatiques	RH_MT_DD
+Les plantes s'y sentent bien, surtout celles qui aiment à la fois les pieds mouillés et secs.	celles qui aiment à la fois les pieds mouillés et secs	RH_MT_LV
+Vous n'avez pas la main verte ?	vous n'avez pas la main verte	RH_MT_MC
+Ainsi, vous éviterez la congestion, et votre wadi restera en pleine forme.	votre wadi restera en pleine forme	RH_MT_DD
+On dirait un conte de fées, n'est-ce pas ?	un conte de fées	RH_MT_MC
+Ou du moins depuis 2023 : c'est une mesure de la part du gouvernement pour s'armer d'une part contre les périodes de sécheresse extrême et, d'autre part, à l'autre extrémité du spectre, contre les inondations.	pour s'armer d'une part contre les périodes de sécheresse extrême	RH_MT_DD
+Ou du moins depuis 2023 : c'est une mesure de la part du gouvernement pour s'armer d'une part contre les périodes de sécheresse extrême et, d'autre part, à l'autre extrémité du spectre, contre les inondations.	à l'autre extrémité du spectre	RH_MT_MC
+Et le wadi y joue un rôle essentiel.	le wadi y joue un rôle essentiel	RH_MT_DD
+Ensuite, l'eau atteint les racines des plantes et réalimente les nappes phréatiques.	réaliment les nappes phréatiques	RH_MT_DD
+Vous y êtes presque : vous n'avez plus qu'à aménager votre wadi flambant neuf en y plantant des fleurs et des plantes qui, comme je vous l'ai dit, aiment à la fois les pieds mouillés et secs. 	flambant neuf	RH_MT_DD
+Vous y êtes presque : vous n'avez plus qu'à aménager votre wadi flambant neuf en y plantant des fleurs et des plantes qui, comme je vous l'ai dit, aiment à la fois les pieds mouillés et secs. 	des plantes qui, comme je vous l'ai dit, aiment à la fois les pieds mouillés et secs	RH_MT_LV

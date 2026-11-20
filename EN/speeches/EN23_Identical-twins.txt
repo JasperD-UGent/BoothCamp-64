@@ -1,0 +1,27 @@
+Dear colleagues, dear students, let me start by asking you if you know any identical twins. I am sure most of you know at least one pair of identical twins and you have probably struggled on at least one occasion to tell them apart. Well, as it turns out, it is not just people who struggle to tell twins apart. Apparently, technology struggles too. Fingerprints, for example, are slightly less reliable for twins than for the general population. And the same is true for facial recognition software. This is not a small issue, because the number of identical twins in the population is on the rise.
+
+One reason for that is that people are having children later in life. My grandmother's and my mom's generations had children in their early to mid-twenties, but most of my friends did not have children until their late twenties or even early thirties. Women who become pregnant at an older age are more likely to have twins.
+
+And another reason, which is connected to the previous one, is that more people today use fertility treatments, such as IVF. These treatments slightly increase the chance that a fertilised egg splits into two embryos.
+
+So, as a result, we are slowly seeing more identical twins in the population. If things like facial recognition are used for identity checks, then we want those techniques to be accurate for twins as well, of course. That is why scientists are now looking for more reliable ways to identify people. Let me walk you through four unique features of the human body that can be used for identification purposes.
+
+Let's start with our ears. They may be too big or too prominent for our liking, but the important thing, from an identification point of view, is that they are unique. The form of the outer ear is unique. So measurements like the distance between specific points on the ear allow computers to identify people, even from a blurry image.
+
+Now, in case you are wondering about the impact of age. Ears do not really change shape as we get older. They grow larger, but their proportions stay the same.
+
+But there is even more to be said about our ears. Ears are not only unique in shape. They are also unique in sound. Inside your ear, tiny hair cells convert sound waves into electrical signals. During this process, they also produce very faint sounds of their own. These sounds are also different for every person.
+
+Now let's move on to something else entirely. Like it or not, but we smell. Despite all the perfumes and deodorants we use, we still have a distinct natural body odour, a combination of different compounds that together form our individual scent. This is what search dogs are able to detect and follow.
+
+Some researchers claim they can identify individuals with 100% accuracy using chemical scent data and artificial intelligence. One engineer even suggests that smell could one day be used in biometric passports.
+
+Next feature: the way we move. Putting one foot in front of the other may seem simple, but everyone does it differently. Each of us has tiny ticks, bounces and ways of swinging our legs that are unique. These differences result from subtle differences in our bone structure, our muscles, and our sense of balance. These differences are too subtle for us to spot with the naked eye, but computers can break down the way we walk or run into a set of numbers that are unique.
+
+Mobile phone companies are now working on systems that recognise users based on their movement patterns while the phone is in their pocket. However, there are problems, because things like shoes, clothing, weather, or surfaces can all affect the way we walk.
+
+The next and last way of identifying people may surprise you. Researchers in Japan claim they can identify people by their bums. They developed a pressure-sensitive pad or cushion fitted with sensors. These sensors detect the contours of a person's bum when they sit down. So it detects differences in where they apply pressure on the cushion. They might sit more on one cheek than the other, for example. And it detects how much of their body touches the seat. So slouchers will have a different sitting profile from those who sit up straight. You might be wondering how this form of identification is useful. Well, it could be useful as an anti-theft system in cars.
+
+Dear students, dear colleagues. Today, I have shown you a number of ways in which we are all unique. There could be real benefits to our uniqueness. After all, most of us struggle to remember the countless passwords and pin numbers we need to access our computers, phones and online services. And hackers show just how vulnerable those passwords can be. So it is clear we need other ways to authenticate our identity.
+
+Experts believe the future lies in combining multiple biometric features rather than relying on just one. So, in the future, unlocking your computer may require not just a fingerprint, but also an earprint or a bumprint. Thank you.

@@ -1,0 +1,11 @@
+full_sentence	device_span	type
+Faisons aujourd'hui le point sur la vente en vrac.	faisons aujourd'hui le point	RH_MT_DD
+Si j'étais allergique aux noix, par exemple, j'éviterais à tout prix les rayons vrac.	à tout prix	RH_MT_DD
+Sans même parler des millions de bactéries qui trainent dans ces rayons.	trainent	RH_MT_DD
+Résultat : le consommateur doit se prendre plus en charge.	se prendre plus en charge	RH_MT_DD
+Mais il faut y regarder à deux fois.	y regarder à deux fois	RH_MT_DD
+Première observation peu écologique : de nombreux consommateurs achètent de nouveaux contenants au lieu d'utiliser ceux qui trainent dans leurs placards.	trainent	RH_MT_DD
+Mais atteindra-t-elle ces objectifs avec sa nouvelle règle ?	atteindre	RH_MT_DD
+Quant aux distributeurs, ils doivent privilégier des emballages de transport recyclables.	priviliégier	RH_MT_DD
+Le vrac n'est pas une solution miracle, Mesdames et Messieurs, mais avec quelques adaptations, il peut constituer un véritable pas vers une consommation plus responsable.	une solution miracle	RH_MT_DD
+Le vrac n'est pas une solution miracle, Mesdames et Messieurs, mais avec quelques adaptations, il peut constituer un véritable pas vers une consommation plus responsable.	il peut constituer un véritable pas vers une consommation plus responsable	RH_MT_DD

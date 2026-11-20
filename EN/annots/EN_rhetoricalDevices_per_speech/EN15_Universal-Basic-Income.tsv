@@ -1,0 +1,26 @@
+full_sentence	device_span	type
+Now, just to be clear, I'm not talking about the party animals, nor am I talking about the ones who stay up all night to play video games or to binge-watch Netflix series.	party animals	RH_MT_DD
+Now, just to be clear, I'm not talking about the party animals, nor am I talking about the ones who stay up all night to play video games or to binge-watch Netflix series.	binge-watch	RH_MT_DD
+I am referring to bright, hardworking students who, unfortunately, are forced to juggle two or three jobs to cover their tuition and rent.	juggle two or three jobs	RH_MT_DD
+I am referring to bright, hardworking students who, unfortunately, are forced to juggle two or three jobs to cover their tuition and rent.	cover their tuition and rent	RH_MT_DD
+It breaks my heart to see that they turn down unpaid internships they really want because they cannot afford to work for free.	it breaks my heart	RH_MT_DD
+It breaks my heart to see that they turn down unpaid internships they really want because they cannot afford to work for free.	turn down unpaid internships	RH_MT_DD
+Things like that stay with you as a teacher.	stay with you	RH_MT_DD
+You see the potential, but you also see the financial burden holding students back.	financial burden	RH_MT_DD
+You see the potential, but you also see the financial burden holding students back.	holding students back	RH_MT_DD
+Not huge amounts, just enough for them to study without that constant financial pressure.	financial pressure	RH_MT_DD
+"Well, that ""what if"", that safety net, is what I would like to talk about today."	safety net	RH_MT_DD
+First, I will walk you through the definition of UBI, then I will discuss some experiments, and then I will cover the pros and cons.	walk you through the definition	RH_MT_DD
+First, I will walk you through the definition of UBI, then I will discuss some experiments, and then I will cover the pros and cons.	cover the pros and cons	RH_MT_DD
+Secondly, it is a cash payment, so people can spend it as they see fit.	see fit	RH_MT_DD
+So there are no requirements you need to meet.	requirements you need to meet	RH_MT_DD
+Now that you know what UBI is, let's move on to some experiments.	move on to some experiments	RH_MT_DD
+In Europe, Finland, Germany, Spain and the Netherlands ran limited basic income programs.	ran limited basic income programs	RH_MT_DD
+UBI can lift people out of poverty.	lift people out of poverty	RH_MT_MC
+The poverty rate there fell to its lowest level in 40 years in just 6 months' time.	the poverty rate there fell to its lowest level	RH_MT_MC
+In Namibia, child malnutrition rates fell from 42% to 17% in just 6 months, as a result of a UBI programme.	child malnutrition rates fell	RH_MT_MC
+To take the example of Namibia again, as a result of UBI, school dropout rates fell from almost 40% in November of 2007 to 5% in June of 2008, and to almost 0% in November of 2008.	school dropout rates fell	RH_MT_MC
+That all sounds like music to my ears.	sounds like music to my ears	RH_MT_DD
+Well, of course it is not all rainbows and sunshine.	it is not all rainbows and sunshine	RH_MT_DD
+Universal Basic Income isn't a magic wand, and it won't solve every problem overnight.	magic wand	RH_MT_DD
+But it does force us to ask some uncomfortable, and important, questions: Do we want a society where people live one paycheck away from crisis?	people live one paycheck away from crisis	RH_MT_LV

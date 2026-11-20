@@ -1,0 +1,6 @@
+full_sentence	device_span	type
+Aujourd'hui, je vous propose un voyage : un voyage sans avion ni valise, direction la savane subsaharienne.	je vous propose un voyage	RH_MT_LV
+Je ne vous surprendrai pas en disant qu'avec une telle hauteur, les girafes ne sont pas des poids plumes.	poids plumes	RH_MT_DD
+Elle se nourrit principalement de feuilles d'arbres, d'acacias de préférence, et là, ce cou long constitue évidemment un atout majeur, car les feuilles les plus tendres des acacias se trouvent justement à sa hauteur, entre 2 et 6 mètres.	un atout	RH_MT_DD
+De très loin, elles lui permettent de se fondre dans les jeux d'ombre et de lumière de la savane.	les jeux d'ombre et de lumière	RH_MT_DD
+Mais les taches ne servent pas qu'au camouflage : elles jouent également un rôle important dans la régulation thermique.	elles jouent également un rôle important	RH_MT_DD

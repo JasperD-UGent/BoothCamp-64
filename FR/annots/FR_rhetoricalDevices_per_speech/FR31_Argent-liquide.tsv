@@ -1,0 +1,18 @@
+full_sentence	device_span	type
+Dans les deux cas, vous n'êtes pas seul, car, même si, comme vous l'aurez constaté, les paiements électroniques sont de plus en plus populaires, l'argent liquide ne disparaîtra pas pour autant de nos portefeuilles.	l'argent liquide ne disparaîtra pas pour autant de nos portefeuilles	RH_MT_MC
+Si l'on regarde l'évolution de ces chiffres, on pourrait penser que nous nous dirigeons vers une société « cashless » ou sans espèces, une évolution vers le modèle des pays nordiques comme la Suède, en d'autres mots.	nous nous dirigeons	RH_MT_DD
+En effet, dans ces pays nordiques, l'argent liquide a presque disparu ; les paiements s'y font presque tous par carte ou par des applications parce que ce sont les seuls moyens acceptés dans presque tous les magasins et restaurants.	l'argent liquide a presque disparu	RH_MT_MC
+J'insiste sur le mot « presque », car les autorités suédoises viennent de faire un pas en arrière.	faire un pas en arrière	RH_MT_DD
+Devrons-nous alors nous diriger vers une société « less cash », une société avec moins d'argent liquide, en d'autres mots ?	nous diriger	RH_MT_DD
+Les paiements électroniques permettent aussi de mieux tracer les flux financiers, ce qui permet à son tour de lutter contre la fraude fiscale, car chaque transaction laisse une trace numérique.	les flux	RH_MT_DD
+Les paiements électroniques permettent aussi de mieux tracer les flux financiers, ce qui permet à son tour de lutter contre la fraude fiscale, car chaque transaction laisse une trace numérique.	lutter	RH_MT_DD
+Les paiements électroniques permettent aussi de mieux tracer les flux financiers, ce qui permet à son tour de lutter contre la fraude fiscale, car chaque transaction laisse une trace numérique.	une trace	RH_MT_DD
+Blanchir de l'argent devient donc beaucoup moins facile.	blanchir	RH_MT_DD
+De plus, mieux tracer les flux financiers permet de lutter contre le terrorisme, parce que les transferts suspects peuvent être repérés plus rapidement.	les flux	RH_MT_DD
+De plus, mieux tracer les flux financiers permet de lutter contre le terrorisme, parce que les transferts suspects peuvent être repérés plus rapidement.	tracer	RH_MT_DD
+De plus, mieux tracer les flux financiers permet de lutter contre le terrorisme, parce que les transferts suspects peuvent être repérés plus rapidement.	lutter	RH_MT_DD
+Après tout, ne devrions-nous pas nous demander, avant de nous diriger vers une société « cashless », si cela ne crée pas de nouveaux risques ?	nous diriger	RH_MT_DD
+Ensuite, parmi les risques les plus dangereux, il convient de citer celui lié au phishing, frappant encore et surtout les personnes plus âgées.	frappant	RH_MT_DD
+Toutefois, il existe quelques inconvénients liés à la disparition de l'argent liquide.	la disparition de l'argent liquide	RH_MT_MC
+Enfin, parlons du risque de pannes d'électricité, un risque bien réel, comme en 2025, en Espagne, lorsqu'une énorme panne d'électricité a paralysé tout le pays : plus de terminaux de paiement, plus d'Internet, plus d'option d'utiliser une carte ou une application.	a paralysé	RH_MT_DD
+N'offre-t-elle pas l'équilibre dont nous avons aujourd'hui besoin : la sécurité des transactions électroniques et l'option de payer cash lorsqu'on veut ou en cas de crise ou de panne, comme en Espagne ?	l'équilibre	RH_MT_DD

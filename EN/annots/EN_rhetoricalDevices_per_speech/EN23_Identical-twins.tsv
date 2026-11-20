@@ -1,0 +1,6 @@
+full_sentence	device_span	type
+This is not a small issue, because the number of identical twins in the population is on the rise.	number of identical twins in the population is on the rise	RH_MT_DD
+And another reason, which is connected to the previous one, is that more people today use fertility treatments, such as IVF.	another reason, which is connected to the previous one	RH_MT_MC
+Let me walk you through four unique features of the human body that can be used for identification purposes.	walk you through four unique features	RH_MT_DD
+These differences are too subtle for us to spot with the naked eye, but computers can break down the way we walk or run into a set of numbers that are unique.	spot with the naked eye	RH_MT_DD
+These differences are too subtle for us to spot with the naked eye, but computers can break down the way we walk or run into a set of numbers that are unique.	break down the way we walk	RH_MT_MC

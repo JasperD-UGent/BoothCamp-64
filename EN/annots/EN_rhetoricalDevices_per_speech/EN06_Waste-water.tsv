@@ -1,0 +1,15 @@
+full_sentence	device_span	type
+I remember I was in the south of France, where temperatures soared to 42 degrees Centigrade.	temperatures soared	RH_MT_MC
+Now, if you know me, you know that I really love soaking up the sun.	soaking up the sun	RH_MT_MC
+Now, it goes without saying that these heatwaves resulted in all sorts of problems.	it goes without saying	RH_MT_DD
+The first consequence that comes to mind are perhaps wildfires, as heatwaves create ideal conditions for wildfires. 	comes to mind	RH_MT_DD
+However, there is another critical issue connected to heatwaves: water shortages.	critical issue connected to heatwaves	RH_MT_MC
+And so to try and come up with solutions, they are turning to a pioneer in the field of water management.	come up with a solution	RH_MT_DD
+And so to try and come up with solutions, they are turning to a pioneer in the field of water management.	turning to a pioneer	RH_MT_MC
+The capital, Windhoek, is sandwiched between the two, nearly 650 km away from the nearest river and almost 500 km away from the coast.	sandwiched between the two	RH_MT_DD
+In the 1950s, Windhoek struggled to cope with a rapidly growing population, and severe water shortages gripped the city.	severe water shortages gripped the city	RH_MT_MC
+This process kind of mimics what happens when water is recycled in nature, but Windhoek does it all much, much quicker than Mother Nature.	This process kind of mimics what happens when water is recycled in nature	RH_MT_MC
+This process kind of mimics what happens when water is recycled in nature, but Windhoek does it all much, much quicker than Mother Nature.	Mother Nature	RH_MT_DD
+Staff ensure that drinking water is only sent to homes if it meets specific guidelines set by the World Health Organisation.	meets specific guidelines	RH_MT_DD
+As water shortages grip the planet, Windhoek's insights are more important than ever.	water shortages grip the planet	RH_MT_MC
+Cheers!	Cheers	RH_HU_WP

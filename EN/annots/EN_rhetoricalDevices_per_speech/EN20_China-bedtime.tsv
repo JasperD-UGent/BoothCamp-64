@@ -1,0 +1,19 @@
+full_sentence	device_span	type
+Do you go to bed early to make sure you get enough sleep, so you can rise and shine, so that you can get up bright and early the next day?	rise and shine	RH_MT_DD
+Do you go to bed early to make sure you get enough sleep, so you can rise and shine, so that you can get up bright and early the next day?	get up bright and early	RH_MT_DD
+Or are you more of a night owl? 	night owl	RH_MT_DD
+I'm a bit of an early bird myself, and that's because for years, I had to get up at 5.30 due to a long commute.	early bird	RH_MT_DD
+You see, I tend to go through periods of insomnia, so I guess I'm both an early bird and a night owl.	early bird	RH_MT_DD
+You see, I tend to go through periods of insomnia, so I guess I'm both an early bird and a night owl.	night owl	RH_MT_DD
+And whenever I talk about this with friends and colleagues, I have the impression the number of other people who are also up in the dead of night is only increasing.	in the dead of night	RH_MT_DD
+Just the other day, I came across an article about this precise topic, burning the candle at both ends: going to bed late and getting up early.	burning the candle at both ends	RH_MT_DD
+After their shift, which sometimes also includes overtime, they have a narrow window of time to eat, shower and hit the sack.	a narrow window of time	RH_MT_DD
+After their shift, which sometimes also includes overtime, they have a narrow window of time to eat, shower and hit the sack.	hit the sack	RH_MT_DD
+Often, they will stay up surfing the internet, reading the news and watching online videos until well after midnight.	surfing the internet	RH_MT_DD
+Over-stretched workers all over the world are putting off bedtime to claim some precious personal time.	Over-stretched workers	RH_MT_DD
+Dear colleagues, it's understandable people resent work squeezing their leisure time, but reducing sleep is probably not the best response.	squeezing their leisure time	RH_MT_MC
+After all, all work and no play makes Jack a dull boy, right?	all work and no play makes Jack a dull boy	RH_MT_DD
+Sleep helps us recover, but to sleep well, we first need to fully switch off from work.	switch off from work	RH_MT_MC
+That's why people trade sleep for downtime – they need that mental break.	trade sleep for downtime	RH_MT_MC
+I hope you're not counting sheep all too often.	counting sheep	RH_MT_DD
+I hope you get a solid 8 hours a night, sleeping like a log.	sleeping like a log	RH_MT_DD
